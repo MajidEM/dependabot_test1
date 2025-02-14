@@ -1,1 +1,1 @@
-FROM ghcr.io/flux-iac/tf-runner:v0.16.0-rc.4
+FROM ghcr.io/kyverno/chainsaw:v0.2.6
