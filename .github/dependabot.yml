@@ -18,12 +18,6 @@ updates:
       interval: "daily"
     registries:
       - github-registry
-    commit-message:
-      prefix: "chore"
-      include: "scope"
-    labels:
-      - "dependencies"
-      - "docker"
     reviewers:
       - "MajidEM"
 
