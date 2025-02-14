@@ -1,1 +1,1 @@
-FROM php:8.4.3
+FROM ghcr.io/flux-iac/tf-runner:v0.16.0-rc.4
